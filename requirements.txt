@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+langgraph
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+huggingface_hub
+python-dotenv
+openpyxl
+sqlite-utils
